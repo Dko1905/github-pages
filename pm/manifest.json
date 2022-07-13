@@ -1,0 +1,15 @@
+{
+  "short_name": "SimPass v4",
+  "name": "SimPass - Simple Password Manager",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "300x300",
+      "type": "image/webp"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
